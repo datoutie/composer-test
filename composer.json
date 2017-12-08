@@ -1,5 +1,5 @@
 {
-    "name": "li/composer-test",
+    "name": "mrli/composer-test",
     "description": "this a demo for build composer.",
     "type": "library",
     "license": "MIT",
